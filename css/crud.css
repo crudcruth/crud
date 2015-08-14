@@ -82,11 +82,12 @@ header {
     color: #fff;
     background:url(https://lh3.googleusercontent.com/VuFg_cWadsX3TsEjyI9j3CTt4f8-MVPlFTUeTX1pduMW-KijTbYInvv9dyx5uq7sFmToiw=s170);
     repeat:no repeat;
+    height:40%;
 }
 
 header .container {
     padding-top: 100px;
-    padding-bottom: 70px;
+    padding-bottom: 50px;
 }
 
 
