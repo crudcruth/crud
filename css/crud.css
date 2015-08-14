@@ -80,8 +80,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background:url(https://lh3.googleusercontent.com/VuFg_cWadsX3TsEjyI9j3CTt4f8-MVPlFTUeTX1pduMW-KijTbYInvv9dyx5uq7sFmToiw=s170) 20/100 30/100;
-    
+    background:url(https://lh3.googleusercontent.com/VuFg_cWadsX3TsEjyI9j3CTt4f8-MVPlFTUeTX1pduMW-KijTbYInvv9dyx5uq7sFmToiw=s170);
+    repeat:no-repeat;
 }
 
 header .container {
