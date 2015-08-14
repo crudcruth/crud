@@ -85,14 +85,11 @@ header {
 }
 
 header .container {
-    padding-top: 130px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 70px;
 }
 
-header img {
-    display: block;
-    margin: 0 auto 20px;
-}
+
 
 header .intro-text .name {
     display: block;
