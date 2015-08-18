@@ -72,7 +72,7 @@ hr.star-primary:after {
 }
 
 .img-centered {
-    margin: 3 auto;
+    margin: 0 auto;
    
 
 }
@@ -82,13 +82,14 @@ header {
     color: #fff;
     background:url(https://lh3.googleusercontent.com/K_9U1AhbkykwLgM2HRr-At2q_2jAFGwql3v6dXddiA=w1366-h281-no);
     repeat:no-repeat;
+    background-size:90%;
     
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    padding-left:20px;
+    
 }
 
 
