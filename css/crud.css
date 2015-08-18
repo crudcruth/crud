@@ -87,10 +87,9 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    
     background:cover;
-    background-repeat:no-repeat;
+   
 }
 
 
